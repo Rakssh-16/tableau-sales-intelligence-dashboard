@@ -563,13 +563,15 @@ The `.twbx` package contains the workbook definition (`.twb`) and the embedded H
 
 <div align="center">
 
-### Sales Analytics Dashboard
-<img src="screenshots/dashboard1.png" alt="Sales Analytics Dashboard" width="850">
+### Executive Sales Analytics Dashboard
+
+<img src="assets/dashboard-01-sales-analytics.png" width="95%">
 
 <br><br>
 
-### Sales Performance Dashboard
-<img src="screenshots/dashboard2.png" alt="Sales Performance Dashboard" width="850">
+### Executive Sales Performance Dashboard
+
+<img src="assets/dashboard-02-sales-performance.png" width="95%">
 
 </div>
 
